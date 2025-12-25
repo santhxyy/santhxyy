@@ -1,21 +1,46 @@
-<h1 align="center">🚀 Jamilly Santos | Data & Code</h1>
+# Olá, eu sou a Jamilly Santos! 👋
 
-###
+### 👩‍💻 Engenheira de Dados em formação | Front-end Developer | Ethical Hacker (EH)
 
-<h3 align="center">📊 Data Engineering | 🧠 Computer Science<br><br>Working at the intersection of data and design.<br><br>Front-end Development. 🖥️<br><br>Transforming raw data into intuitive insights.</h3>
+Sou uma entusiasta da tecnologia apaixonada por transformar dados em insights, construir interfaces incríveis e garantir que tudo isso esteja seguro sob a ótica da cibersegurança. Atualmente, foco meus estudos na intersecção entre performance de dados e segurança da informação.
 
-###
+---
 
-<br clear="both">
+### 🛠️ No que eu trabalho e estudo:
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="86" alt="html5 logo"  />
-  <img width="89" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="86" alt="css logo"  />
-  <img width="89" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="86" alt="javascript logo"  />
-  <img width="89" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="86" alt="nodejs logo"  />
-</div>
+* **Engenharia de Dados:** Arquitetura, pipeline de dados e transformação de grandes volumes de informação.
+* **Front-end Development:** Criação de interfaces responsivas, modernas e focadas na experiência do usuário (UX).
+* **Ethical Hacking:** Testes de intrusão, análise de vulnerabilidades e defesa cibernética.
 
-###
+---
+
+### 🚀 Stack Tecnológica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens & Web** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Back-end** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Segurança & Dados** | ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![CyberSecurity](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=white) |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+Sinta-se à vontade para me chamar para projetos, estudos ou apenas para trocar uma ideia sobre o mundo tech!
+
+* **LinkedIn:** [linkedin.com/in/jamilly-santos](https://www.linkedin.com/in/jamilly-santos-997208354)
+* **Discord:** `santhxy` (ou clique aqui: [Adicionar no Discord](https://discord.com/users/santhxy))
+* **Portfólio:** *Em breve...*
+
+---
+
+> "A segurança não é um produto, mas um processo." — Bruce Schneier
