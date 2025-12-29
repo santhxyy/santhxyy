@@ -28,5 +28,5 @@ I am a tech enthusiast passionate about transforming data into insights, buildin
 
 Feel free to reach out for projects, collaborations, or just to chat about the tech world!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=SEU_LINK_AQUI)](SEU_LINK_AQUI)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=SEU_LINK_AQUI)](https://www.linkedin.com/in/jamilly-santos-997208354)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=SEU_USUARIO_OU_CONVITE)](https://discord.com/channels/@santhxy)
