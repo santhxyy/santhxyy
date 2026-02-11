@@ -2,7 +2,7 @@
 <!-- ✨ README - Jamilly Santos ✨ -->
 <!-- ============================= -->
 
-<h1 align="center">🌸✨ Jamilly Santos ✨🌸</h1>
+<h1 align="center">✨ Jamilly Santos ✨</h1>
 
 <h3 align="center">
 🚀 Front-End Developer | 📊 Data Engineering Student | 🔐 Ethical Hacking Enthusiast
@@ -77,8 +77,8 @@ Minha jornada combina criatividade, dados e segurança digital, explorando área
 
 ## 🌐 Conecte-se comigo
 
-💬 **Discord:** `SEU_DISCORD_AQUI`  
-💼 **LinkedIn:** [Meu LinkedIn](SEU_LINKEDIN_AQUI)
+💬 **Discord:** @santhxy.dev  
+💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/jamilly-santos-997208354)
 
 ---
 
@@ -86,9 +86,9 @@ Minha jornada combina criatividade, dados e segurança digital, explorando área
 
 <div align="center">
 
-![Jamilly GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=radical)
+![Jamilly GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhxyy_GITHUB&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy_GITHUB&layout=compact&theme=radical)
 
 </div>
 
