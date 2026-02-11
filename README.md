@@ -82,17 +82,7 @@ Minha jornada combina criatividade, dados e segurança digital, explorando área
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-![Jamilly GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhxyy_GITHUB&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy_GITHUB&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## 🧠 Filosofia
 
