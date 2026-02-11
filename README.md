@@ -1,32 +1,108 @@
-# Hi there, I'm Jamilly Santos! 👋
+<!-- ============================= -->
+<!-- ✨ README - Jamilly Santos ✨ -->
+<!-- ============================= -->
 
-### 👩‍💻 Data Engineer in Training | Front-end Developer | Ethical Hacker (EH)
+<h1 align="center">🌸✨ Jamilly Santos ✨🌸</h1>
 
-I am a tech enthusiast passionate about transforming data into insights, building incredible interfaces, and ensuring everything is secure from a cybersecurity perspective. Currently, my studies focus on the intersection of data performance and information security.
-
----
-
-### 🛠️ What I'm working on and studying:
-
-* **Data Engineering:** Architecture, data pipelines, and transformation of large volumes of information.
-* **Front-end Development:** Creating responsive, modern interfaces focused on user experience (UX).
-* **Ethical Hacking:** Penetration testing, vulnerability analysis, and cyber defense.
+<h3 align="center">
+🚀 Front-End Developer | 📊 Data Engineering Student | 🔐 Ethical Hacking Enthusiast
+</h3>
 
 ---
 
-### 🚀 Tech Stack
+## 🌟 Bem-vindo(a) ao meu perfil!
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages & Web** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Back-end** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| **Security & Data** | ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![CyberSecurity](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=white) |
+Olá! Eu sou **Jamilly Santos**, estudante apaixonada por tecnologia, inovação e desafios.  
+Minha jornada combina criatividade, dados e segurança digital, explorando áreas como:
+
+- 🎨 Desenvolvimento **Front-End Moderno**
+- 📊 Engenharia de Dados & Big Data
+- 🔐 Segurança da Informação & Ethical Hacking
 
 ---
 
-### 📫 Let's connect!
+## 👩‍💻 Sobre Mim
 
-Feel free to reach out for projects, collaborations, or just to chat about the tech world!
+🎓 Atualmente sou estudante focada em construir uma base sólida e prática em tecnologia.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=SEU_LINK_AQUI)](https://www.linkedin.com/in/jamilly-santos-997208354)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=SEU_USUARIO_OU_CONVITE)](https://discord.com/channels/@santhxy.dev)
+💡 Tenho interesse em criar soluções que conectem:
+
+- Experiência do usuário (UI/UX)
+- Dados e inteligência analítica
+- Segurança e proteção digital
+
+🌱 Sempre aprendendo e evoluindo com projetos reais.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 🎨 Front-End
+
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+---
+
+### 📊 Engenharia de Dados
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+
+---
+
+### 🔐 Ethical Hacking & Cybersecurity
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux)
+![Hack The Box](https://img.shields.io/badge/HackTheBox-black?style=for-the-badge&logo=hackthebox)
+
+---
+
+## 📌 Projetos em Destaque
+
+✨ Aqui você encontrará projetos voltados para:
+
+- Interfaces modernas e responsivas  
+- Aplicações web com foco em experiência do usuário  
+- Manipulação e análise de dados  
+- Estudos e práticas em segurança ofensiva  
+
+🚧 *Sempre criando e atualizando coisas novas...*
+
+---
+
+## 🌐 Conecte-se comigo
+
+💬 **Discord:** `SEU_DISCORD_AQUI`  
+💼 **LinkedIn:** [Meu LinkedIn](SEU_LINKEDIN_AQUI)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Jamilly GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🧠 Filosofia
+
+> “Aprender tecnologia é como desbloquear superpoderes.  
+> E eu estou construindo os meus um projeto de cada vez.” ⚡
+
+---
+
+<h2 align="center">⭐ Obrigada por visitar meu perfil! ⭐</h2>
+
+<p align="center">
+Se quiser trocar ideias, colaborar ou conversar sobre tecnologia, é só chamar 🚀
+</p>
