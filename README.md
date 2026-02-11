@@ -10,32 +10,32 @@
 
 ---
 
-## 🌟 Bem-vindo(a) ao meu perfil!
+## 🌟 Welcome to my profile!
 
-Olá! Eu sou **Jamilly Santos**, estudante apaixonada por tecnologia, inovação e desafios.  
-Minha jornada combina criatividade, dados e segurança digital, explorando áreas como:
+Hi! I'm **Jamilly Santos**, a student passionate about technology, innovation, and challenges.  
+My journey combines creativity, data, and digital security, exploring areas such as:
 
-- 🎨 Desenvolvimento **Front-End Moderno**
-- 📊 Engenharia de Dados & Big Data
-- 🔐 Segurança da Informação & Ethical Hacking
-
----
-
-## 👩‍💻 Sobre Mim
-
-🎓 Atualmente sou estudante focada em construir uma base sólida e prática em tecnologia.
-
-💡 Tenho interesse em criar soluções que conectem:
-
-- Experiência do usuário (UI/UX)
-- Dados e inteligência analítica
-- Segurança e proteção digital
-
-🌱 Sempre aprendendo e evoluindo com projetos reais.
+- 🎨 Modern **Front-End Development**
+- 📊 Data Engineering & Big Data
+- 🔐 Information Security & Ethical Hacking
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 👩‍💻 About Me
+
+🎓 I am currently a student focused on building a strong and practical foundation in technology.
+
+💡 I’m interested in creating solutions that connect:
+
+- User Experience (UI/UX)
+- Data and analytical intelligence
+- Security and digital protection
+
+🌱 Always learning and growing through real-world projects.
+
+---
+
+## 🛠️ Technologies & Tools
 
 ### 🎨 Front-End
 
@@ -46,53 +46,8 @@ Minha jornada combina criatividade, dados e segurança digital, explorando área
 
 ---
 
-### 📊 Engenharia de Dados
+### 📊 Data Engineering
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-
----
-
-### 🔐 Ethical Hacking & Cybersecurity
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux)
-![Hack The Box](https://img.shields.io/badge/HackTheBox-black?style=for-the-badge&logo=hackthebox)
-
----
-
-## 📌 Projetos em Destaque
-
-✨ Aqui você encontrará projetos voltados para:
-
-- Interfaces modernas e responsivas  
-- Aplicações web com foco em experiência do usuário  
-- Manipulação e análise de dados  
-- Estudos e práticas em segurança ofensiva  
-
-🚧 *Sempre criando e atualizando coisas novas...*
-
----
-
-## 🌐 Conecte-se comigo
-
-💬 **Discord:** @santhxy.dev  
-💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/jamilly-santos-997208354)
-
----
-
-
-
-## 🧠 Filosofia
-
-> “Aprender tecnologia é como desbloquear superpoderes.  
-> E eu estou construindo os meus um projeto de cada vez.” ⚡
-
----
-
-<h2 align="center">⭐ Obrigada por visitar meu perfil! ⭐</h2>
-
-<p align="center">
-Se quiser trocar ideias, colaborar ou conversar sobre tecnologia, é só chamar 🚀
-</p>
+![Pandas](https://img.shields.io/badge/)
