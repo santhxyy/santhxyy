@@ -20,8 +20,8 @@
 Aqui está uma visão geral do meu compromisso com o código e evolução técnica:
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
 </p>
 
 ---
