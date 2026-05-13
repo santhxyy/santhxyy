@@ -1,7 +1,8 @@
 
 <div align="center">
 
-![Banner](a_minimalist_elegant_banner_image_for_a__1778709844.png)
+![My GitHub Metrics](github-metrics.svg)
+
 
 </div>
 
@@ -91,9 +92,11 @@ Data Eng.       ███████░░░░░░░░░  40%  ✦
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff)
+![My GitHub Metrics](github-metrics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888)
+
+![My GitHub Metrics](github-metrics.svg)
+
 
 </div>
 
