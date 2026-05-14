@@ -1,7 +1,9 @@
 
 <div align="center">
 
-![My GitHub Metrics](github-metrics.svg)
+# JAMILLY SANTOS
+---
+
 
 </div>
 
@@ -93,7 +95,6 @@ Data Eng.       â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–�
 
 ![My GitHub Metrics](github-metrics.svg)
 
-![My GitHub Metrics](github-metrics.svg)
 
 </div>
 
