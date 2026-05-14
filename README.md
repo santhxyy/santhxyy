@@ -1,8 +1,7 @@
 
 <div align="center">
 
-![My GitHub Metrics](github-metrics.svg)
-
+![Banner](a_minimalist_elegant_banner_image_for_a__1778709844.png)
 
 </div>
 
@@ -20,7 +19,7 @@
 
 <br>
 
-## ﹏ about me
+## ï¹ about me
 
 ```javascript
 const jamillySantos = {
@@ -33,7 +32,7 @@ const jamillySantos = {
 
 <br>
 
-## ﹏ stack
+## ï¹ stack
 
 <div align="center">
 
@@ -46,7 +45,7 @@ const jamillySantos = {
 
 <br>
 
-## ﹏ also exploring
+## ï¹ also exploring
 
 <div align="center">
 
@@ -58,45 +57,43 @@ const jamillySantos = {
 
 <br>
 
-## ﹏ in progress
+## ï¹ in progress
 
 ```
-Front-end       ████████████░░░░  75%  ✦
-Back-end        █████░░░░░░░░░░░  30%  ✦  studying...
-Data Eng.       ███████░░░░░░░░░  40%  ✦
+Front-end       â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘  75%  âœ¦
+Back-end        â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  30%  âœ¦  studying...
+Data Eng.       â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  40%  âœ¦
 ```
 
 <br>
 
-## ﹏ featured projects
+## ï¹ featured projects
 
 | repository | description |
 |------------|-------------|
-| [📁 javascript-if-else](https://github.com/santhxyy/javascript-if-else) | practical guide on javascript conditionals |
-| 📁 coming soon... | back-end project 🔧 |
-| 📁 coming soon... | data engineering project 🔧 |
+| [ðŸ“ javascript-if-else](https://github.com/santhxyy/javascript-if-else) | practical guide on javascript conditionals |
+| ðŸ“ coming soon... | back-end project ðŸ”§ |
+| ðŸ“ coming soon... | data engineering project ðŸ”§ |
 
 <br>
 
-## ﹏ community
+## ï¹ community
 
-> 💬 I'm part of **ByteCore** — a programming community on Discord.
+> ðŸ’¬ I'm part of **ByteCore** â€” a programming community on Discord.
 >
-> *"Hi, I'm **Jamilly Santos** — a dev in constant evolution!"* 🖤
+> *"Hi, I'm **Jamilly Santos** â€” a dev in constant evolution!"* ðŸ–¤
 >
 > [![ByteCore](https://img.shields.io/badge/Discord-ByteCore-0d0d0d?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dxD9NsnHy)
 
 <br>
 
-## ﹏ statistics
+## ï¹ statistics
 
 <div align="center">
 
-![My GitHub Metrics](github-metrics.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff)
 
-
-![My GitHub Metrics](github-metrics.svg)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888)
 
 </div>
 
@@ -106,6 +103,6 @@ Data Eng.       ███████░░░░░░░░░  40%  ✦
 
 <div align="center">
 
-*thanks for visiting* ◦ *leave a ⭐ if you like my work*
+*thanks for visiting* â—¦ *leave a â­ if you like my work*
 
 </div>
