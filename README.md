@@ -1,61 +1,70 @@
-# Jamilly Santos 👋
+# Jamilly Santos 🌑
 
-> **Data Engineering | Computer Science | Cybersecurity**
+> **Data Engineering · Computer Science · Cybersecurity**
 
-Hello! I am a developer and researcher passionate about transforming data into insights and systems into fortresses. Currently focused on **Java**, **Cybersecurity**, and **Database Administration**.
+Transformando dados em insights e sistemas em fortalezas impenetráveis.
+Especialista em construir alicerces sólidos e defender o que importa.
 
 ---
 
-### 🛠️ Stack & Technologies
+## 🕯️ Stack & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=black&labelColor=000000" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black&labelColor=000000" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black&labelColor=000000" alt="CSS" />
+  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=000000" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=000000" alt="SQL" />
+
 </div>
 
 ---
 
-### 🎓 Areas of Expertise & Knowledge
+## 🌙 Domínios de Conhecimento
 
-| Area | Focus & Specialization |
+| Área | Foco & Especialização |
 | :--- | :--- |
-| **🖥️ Data Engineering** | Big Data, Data Pipelines, ETL, Data Architecture. |
-| **📊 Data Science** | Advanced Algorithms, Binary Logic, Predictive Analysis. |
-| **🔒 Cybersecurity** | Ethical Hacking, Pentesting, Vulnerability Analysis, Network Defense. |
-| **💾 DB Administration** | Database Management, Query Optimization, Backup & Recovery. |
-| **💻 Software** | Fullstack Development, Software Architecture, Problem Solving. |
+| **📡 Engenharia de Dados** | Big Data, Pipelines de Dados, ETL, Arquitetura de Dados. |
+| **🔮 Ciência de Dados** | Algoritmos Avançados, Lógica Binária, Análise Preditiva. |
+| **🛡️ Cibersegurança** | *Ethical Hacking*, Pentesting, Análise de Vulnerabilidade, Defesa de Rede. |
+| **💠 DB Administration** | Gestão de Bancos de Dados, Otimização de Queries, Backup & Recovery. |
+| **⚙️ Engenharia de Software** | Desenvolvimento Fullstack, Arquitetura de Software, Resolução de Problemas. |
 
 ---
 
-### 🚀 What I'm Studying Now
+## 🌑 O Que Estou Explorando Agora
 
-> **Advanced Java** & **Offensive Cybersecurity**
+> **Java Avançado & Cibersegurança Ofensiva**
 
-Currently deepening my knowledge in **Database Administration** to ensure scalability and security in large-scale projects.
+Aprofundando minha jornada em **Administração de Banco de Dados** para garantir escalabilidade e segurança em projetos de grande porte.
 
 ---
 
-### 📊 Recent Activity
+## 📊 Meu Rastro no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=transparent&bg_color=000&title_color=fff&text_color=888&icon_color=fff" alt="Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333" alt="Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&bg_color=000&border_color=fff&fire=fff" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&bg_color=000000&border_color=333333&fire=ffffff&currStreakLabel=ffffff" alt="Streak" />
+
 </div>
 
 ---
 
-### 📬 Let's Connect?
+## 🖤 Vamos Conectar?
 
-If you have a challenging project or want to talk about data and security:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamilly-santos-997208354/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamiilly.gabriiellly@gmail.com)
+Se você tem um projeto desafiador ou quer conversar sobre dados e segurança:
 
 <div align="center">
-  <sub>© 2024 Jamilly Santos. Built with code & passion.</sub>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://www.linkedin.com/in/jamilly-santos-997208354/)
+  [![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:jamiilly.gabriiellly@gmail.com)
+
+</div>
+
+<div align="center">
+  <sub>© 2024 Jamilly Santos. *Code & Elegance.*</sub>
 </div>
