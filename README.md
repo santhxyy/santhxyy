@@ -34,15 +34,15 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 ---
 
 ### ✦ Tech Stack & Tools
-
 <div align="center">
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `Java` `JavaScript` `SQL` `HTML5` `CSS3` |
-| **Backend & Environments** | `Node.js` `PostgreSQL` `Relational DBs` |
-| **Domains** | `Data Engineering` `Cybersecurity` `Database Admin` |
+| Field | Specialization Details |
+| :---: | :---: |
+| **Data Engineering** | • Big Data Architectures<br/>• ETL Pipelines & Data Processing<br/>• Scalable System Design |
+| **Cybersecurity** | • Vulnerability Analysis & Pentesting<br/>• Ethical Hacking Frameworks<br/>• Network Defense & Hardening |
+| **Database Administration** | • Query Optimization & Tuning<br/>• Backup, Recovery & Maintenance<br/>• Security & Access Control |
 
+</div>
 <br/>
 
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
