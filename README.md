@@ -57,13 +57,39 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 ### ✧ Fields of Expertise
 <div align="center">
 
-| Field | Specialization Details |
-| :---: | :---: |
-| **Data Engineering** | • Big Data Architectures<br/>• ETL Pipelines & Data Processing<br/>• Scalable System Design |
-| **Cybersecurity** | • Vulnerability Analysis & Pentesting<br/>• Ethical Hacking Frameworks<br/>• Network Defense & Hardening |
-| **Database Administration** | • Query Optimization & Tuning<br/>• Backup, Recovery & Maintenance<br/>• Security & Access Control |
+<table width="100%">
+  <tr>
+    <th align="center" width="35%">Field</th>
+    <th align="center" width="65%">Specialization Details</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Data Engineering</b></td>
+    <td align="left">
+      • Big Data Architectures<br/>
+      • ETL Pipelines & Data Processing<br/>
+      • Scalable System Design
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cybersecurity</b></td>
+    <td align="left">
+      • Vulnerability Analysis & Pentesting<br/>
+      • Ethical Hacking Frameworks<br/>
+      • Network Defense & Hardening
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database Administration</b></td>
+    <td align="left">
+      • Query Optimization & Tuning<br/>
+      • Backup, Recovery & Maintenance<br/>
+      • Security & Access Control
+    </td>
+  </tr>
+</table>
 
 </div>
+
 ---
 
 ### ✦ Activity & Statistics
