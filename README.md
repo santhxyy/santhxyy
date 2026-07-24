@@ -96,5 +96,5 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 <p align="center">
   <i>“In the silence of code, logic creates order.”</i><br/><br/>
-  <sub>© 2026 Jamilly Santos • Designed with elegance and precision.</sub>
+  <sub>© 2024 Jamilly Santos • Designed with elegance and precision.</sub>
 </p>
