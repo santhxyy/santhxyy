@@ -1,19 +1,19 @@
-<div align="center">
+<h1 align="center">─── ⋆⋅✦ Jamilly Santos ✦⋅⋆ ───</h1>
 
-# ─── ⋆⋅✦ Jamilly Santos ✦⋅⋆ ───
+<p align="center">
+  <i>“Transforming raw data into insights and architecture into fortresses.”</i><br/>
+  ─── ❖ ───<br/>
+  <code>Data Engineering</code> • <code>Computer Science</code> • <code>Cybersecurity</code>
+</p>
 
-*“Transforming raw data into insights and architecture into fortresses.”*
-
-─── ❖ ───
-
-` Data Engineering ` • ` Computer Science ` • ` Cybersecurity `
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamilly-santos-997208354/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamiilly.gabriiellly@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jamilly-santos-997208354/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jamiilly.gabriiellly@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
@@ -34,27 +34,20 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 ---
 
 ### ✦ Tech Stack & Tools
-| Field | Specialization Details |
-| :--- | :--- |
-| **Data Engineering** | • Big Data Architectures<br/>• ETL Pipelines & Data Processing<br/>• Scalable System Design |
-| **Cybersecurity** | • Vulnerability Analysis & Pentesting<br/>• Ethical Hacking Frameworks<br/>• Network Defense & Hardening |
-| **Database Administration** | • Query Optimization & Tuning<br/>• Backup, Recovery & Maintenance<br/>• Security & Access Control |
 
----
-<br/>
-
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
 
 ---
 
 ### ✧ Fields of Expertise
+
 <div align="center">
 
 <table width="100%">
@@ -94,19 +87,14 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 ### ✦ Activity & Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333" alt="Jamilly's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&fire=ffffff" alt="Jamilly's Streak" width="48%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333" width="48%" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&fire=ffffff" width="48%" alt="Streak" />
+</p>
 
 ---
 
-<div align="center">
-
-*“In the silence of code, logic creates order.”*
-
-<sub>© 2024 Jamilly Santos • Designed with elegance and precision.</sub>
-
-</div>
+<p align="center">
+  <i>“In the silence of code, logic creates order.”</i><br/><br/>
+  <sub>© 2026 Jamilly Santos • Designed with elegance and precision.</sub>
+</p>
