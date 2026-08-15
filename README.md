@@ -87,9 +87,10 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 ### ✦ Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333" width="48%" alt="Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=santhxyy&theme=dark&background=0A0A0A&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="48%" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333" width="48%" alt="Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhxyy&theme=github-dark&bg_color=0a0a0a&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="48%" alt="Activity Graph" />
 </p>
+
 
 
 
