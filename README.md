@@ -84,16 +84,10 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 </div>
 
 ---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=2077&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&theme=2077&hide_border=true&hide=html,css" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhxyy&theme=github-compact&bg_color=000000&color=888888&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
-
-
-
-
-
-
 
 
 ---
