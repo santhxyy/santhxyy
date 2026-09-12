@@ -86,7 +86,8 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhxyy&theme=github-compact&bg_color=000000&color=888888&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=2077" width="48%" alt="Linguagens por Repositório" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=2077" width="48%" alt="Linguagens Mais Commitadas" />
 </p>
 
 
