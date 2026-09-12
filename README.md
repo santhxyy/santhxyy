@@ -85,10 +85,46 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=2077" width="48%" alt="Linguagens por Repositório" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=2077" width="48%" alt="Linguagens Mais Commitadas" />
-</p>
+```mermaid
+graph TD
+    %% Estilização Global e Definição da Paleta de Cores
+    %% Branco: #ffffff (Texto), Cinza: #cccccc (Bordas), Preto: #1a1a1a (Fundo)
+    classDef area fill:#1a1a1a,stroke:#ffffff,color:#ffffff,stroke-width:2px;
+    classDef skill fill:#333333,stroke:#cccccc,color:#ffffff;
+    classDef coreNode fill:#000000,stroke:#cccccc,color:#ffffff,stroke-width:3px;
+
+    %% Nó Central
+    Core[Jamilly Santos - Profile]:::coreNode
+
+    %% -- Área 1: Data Engineering & DB
+    Core --- DE[Data Engineering & Architecture]:::area
+    DE --> DE_1[Big Data Pipelines]:::skill
+    DE --> DE_2[SQL Query Optimization]:::skill
+    DE --> DE_3[ETL Processes]:::skill
+    DE_2 -.-> SQ[(SQL)]:::skill
+
+    %% -- Área 2: Cybersecurity
+    Core --- CY[Cybersecurity]:::area
+    CY --> CY_1[Pentesting & Hacking]:::skill
+    CY --> CY_2[Network Defense]:::skill
+    CY --> CY_3[Hardening]:::skill
+
+    %% -- Área 3: Development & Computer Science
+    Core --- CS[Computer Science Core]:::area
+    CS --> CS_1[Scalable Architectures]:::skill
+    CS --> CS_2[Algorithms]:::skill
+    CS_1 -.-> JV[Java]:::skill
+    CS_1 -.-> ND[Node.js]:::skill
+
+    %% Conexões DevSecOps Transversais (Em Cinza)
+    CY -. Inter-Domain Hardening .-> CS_1
+    DE_3 -. Data Security Processing .-> CY_3
+
+    %% Sobrescrita de link para cinza
+    linkStyle default stroke:#cccccc,stroke-width:1px,stroke-dasharray: 5 5;
+    linkStyle 0,1,2,3 stroke:#ffffff,stroke-width:2px,stroke-dasharray: 0;
+    linkStyle 7,8,9 stroke:#ffffff,stroke-width:2px,stroke-dasharray: 0;
+    linkStyle 13,14,15 stroke:#ffffff,stroke-width:2px,stroke-dasharray: 0;
 
 
 ---
