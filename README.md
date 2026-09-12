@@ -125,13 +125,7 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
     width="49%" 
     alt="Commits por Linguagem" 
   />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-solis-day?username=santhxyy&theme=github_dark" 
-    width="49%" 
-    alt="Commits por Dia da Semana" 
-  />
-</p>
-
+  
 
 
 <p align="center">
