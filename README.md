@@ -84,17 +84,18 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 </div>
 
 ---
-<div align="center">
 
-| Área de Especialidade | Mapeamento de Domínio | Proficiência |
-| :--- | :--- | :---: |
-| **Data Engineering** | Big Data, SQL Tuning, ETL Pipelines | `████████████░░░` **80%** |
-| **Cybersecurity** | Offensive Security, Pentest, Network Defense | `███████████░░░░` **75%** |
-| **Database Admin** | Backup, Access Control, Query Optimization | `█████████████░░` **85%** |
-| **Software Architecture** | Java Core, Node.js, Systems Design | `██████████████░` **90%** |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=monokai" width="48%" alt="Repositórios por Linguagem" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=monokai" width="48%" alt="Commits por Linguagem" />
+</p>
 
-</div>
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=monokai&utcOffset=-3" width="48%" alt="Horário Produtivo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-solis-day?username=santhxyy&theme=monokai" width="48%" alt="Commits por Dia da Semana" />
+</p>
+
+
 
 <p align="center">
   <i>“In the silence of code, logic creates order.”</i><br/><br/>
