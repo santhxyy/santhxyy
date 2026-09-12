@@ -120,10 +120,7 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-language?username=santhxyy&theme=github_dark" 
-    width="49%" 
-    alt="Commits por Linguagem" 
+ 
   />
   
 
