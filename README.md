@@ -84,9 +84,16 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 </div>
 
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=monokai" width="98%" alt="Profile Details" />
-</p>
+<div align="center">
+
+| Área de Especialidade | Mapeamento de Domínio | Proficiência |
+| :--- | :--- | :---: |
+| **Data Engineering** | Big Data, SQL Tuning, ETL Pipelines | `████████████░░░` **80%** |
+| **Cybersecurity** | Offensive Security, Pentest, Network Defense | `███████████░░░░` **75%** |
+| **Database Admin** | Backup, Access Control, Query Optimization | `█████████████░░` **85%** |
+| **Software Architecture** | Java Core, Node.js, Systems Design | `██████████████░` **90%** |
+
+</div>
 ---
 
 <p align="center">
