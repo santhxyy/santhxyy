@@ -87,7 +87,7 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=monokai" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=github_dark" 
     width="100%" 
     alt="Detalhes do perfil GitHub" 
   />
@@ -95,12 +95,12 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=monokai" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=github_dark" 
     width="49%" 
     alt="Repositórios por Linguagem" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=monokai" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=github_dark" 
     width="49%" 
     alt="Commits por Linguagem" 
   />
@@ -108,12 +108,12 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santhxyy&theme=monokai" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santhxyy&theme=github_dark" 
     width="49%" 
     alt="Estatísticas do GitHub" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=monokai&utcOffset=-3" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=github_dark&utcOffset=-3" 
     width="49%" 
     alt="Horário Produtivo" 
   />
@@ -121,17 +121,16 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-language?username=santhxyy&theme=monokai" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-language?username=santhxyy&theme=github_dark" 
     width="49%" 
     alt="Commits por Linguagem" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-solis-day?username=santhxyy&theme=monokai" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-solis-day?username=santhxyy&theme=github_dark" 
     width="49%" 
     alt="Commits por Dia da Semana" 
   />
 </p>
-
 
 
 
