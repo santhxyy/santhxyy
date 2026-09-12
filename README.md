@@ -85,10 +85,8 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 ---
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=monokai" width="48%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=monokai&utcOffset=-3" width="48%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=monokai" width="98%" alt="Profile Details" />
 </p>
-
 ---
 
 <p align="center">
