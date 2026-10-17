@@ -96,9 +96,6 @@ Bridging the gap between raw intelligence and ironclad security.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" height="180" alt="Most used languages"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=santhxyy&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=BBBBBB&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="95%" alt="GitHub contribution streak"/>
-</p>
 
 
 
