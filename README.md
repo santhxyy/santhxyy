@@ -4,18 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:202020,100:555555&height=190&section=header&text=Jamilly%20Santos&fontSize=44&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=DATA%20ENGINEERING%20%7C%20CYBERSECURITY%20%7C%20COMPUTER%20SCIENCE&descSize=12&descAlignY=58&descColor=DDDDDD" width="100%" alt="Jamilly Santos"/>
 </p>
 
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/lll2yu/sddm-lain-wired-theme/master/VisLain.gif"
-    width="220"
-    alt="Lain Iwakura - Serial Experiments Lain"
-  />
-</p>
-
-
-
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+secure+and+scalable+systems;Transforming+raw+data+into+insights;Exploring+Java+and+Cybersecurity;Engineering+the+future+one+commit+at+a+time" alt="Animated introduction"/>
 </p>
