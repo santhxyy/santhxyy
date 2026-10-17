@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/jamilly-santos-997208354/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:jamiilly.gabriiellly@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
@@ -27,9 +24,12 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 ### ✧ Current Endeavors
 
-* 📚 **Currently Studying:** Advanced **Database Management & Optimization**
-* 🛡️ **Focus Areas:** Advanced Java Architecture & Offensive Cybersecurity
-* 🎯 **Goals:** Building scalable pipelines and high-security infrastructures
+- 📚 **Currently Studying:** Advanced **Database Management & Optimization**
+
+- 🛡️ **Focus Areas:** Advanced Java Architecture & Offensive Cybersecurity
+
+- 🎯 **Goals:** Building scalable pipelines and high-security infrastructures
+
 
 ---
 
@@ -85,16 +85,14 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 ---
 
-
-
-<!-- Gráfico de Atividade Principal em Preto e Branco -->
-
 ### 📊 GitHub Activity & Statistics
 
-<!-- Cartão de Detalhes do Perfil (Preto e Cinza) -->
+<!-- Gráfico 3D do GitHub -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Gráfico 3D Animado" width="100%" />
+  <img src="https://raw.githubusercontent.com/santhxyy/santhxyy/main/profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D do GitHub" width="100%" />
 </p>
+
+<!-- Cartão de Detalhes do Perfil (Preto e Cinza) -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=github_dark" 
@@ -130,7 +128,6 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
     alt="GitHub Streak" 
   />
 </p>
-
 
 ---
 
