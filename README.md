@@ -1,49 +1,49 @@
 <h1 align="center">─── ⋆⋅✦ Jamilly Santos ✦⋅⋆ ───</h1>
 
 <p align="center">
-  <i>“Transforming raw data into insights and architecture into fortresses.”</i><br/>
+  <i>“Transformando dados brutos em insights e arquitetura em fortalezas.”</i><br/>
   ─── ❖ ───<br/>
   <code>Data Engineering</code> • <code>Computer Science</code> • <code>Cybersecurity</code>
 </p>
 
-<!-- Redes Sociais Minimalistas -->
+<!-- Redes Sociais Corrigidas -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jamilly-santos-997208354/">
-    <img src="https://githubusercontent.com" alt="LinkedIn" height="35"/>
+  <a href="https://linkedin.com">
+    <img src="image_gz3yVB.png" alt="LinkedIn" height="30"/>
   </a>
   <a href="mailto:jamiilly.gabriiellly@gmail.com">
-    <img src="https://githubusercontent.com" alt="Email" height="35"/>
+    <img src="image_gjZXj2.png" alt="Email" height="30"/>
   </a>
 </p>
 
 ---
 
-### ✦ About Me
+### ✦ Sobre mim
 
-Welcome to my digital sanctuary. I am a developer and researcher dedicated to exploring the depths of systems, security, and data architecture. Passionate about designing resilient structures, optimizing complex workflows, and crafting elegant technological solutions.
+Bem-vindo ao meu santuário digital. Sou um desenvolvedor e pesquisador dedicado a explorar as profundezas de sistemas, segurança e arquitetura de dados. Apaixonado por projetar estruturas resilientes, otimizar fluxos de trabalho complexos e criar soluções tecnológicas elegantes.
 
-> *Bridging the gap between raw intelligence and ironclad security.*
-
----
-
-### ✧ Current Endeavors
-
-* 📚 **Currently Studying:** Advanced **Database Management & Optimization**
-* 🛡️ **Focus Areas:** Advanced Java Architecture & Offensive Cybersecurity
-* 🎯 **Goals:** Building scalable pipelines and high-security infrastructures
+> *Unindo inteligência bruta e segurança inabalável.*
 
 ---
 
-### ✦ Tech Stack & Tools
+### ✧ Empreendimentos atuais
 
-<!-- Ícones de Tecnologia Personalizados e Alinhados -->
+* 📚 **Atualmente estudando:** Gerenciamento e Otimização Avançados de Banco de Dados
+* 🛡️ **Áreas de atuação:** Arquitetura Java avançada e cibersegurança ofensiva
+* 🎯 **Objetivos:** Construir dutos escaláveis e infraestruturas de alta segurança
+
+---
+
+### ✦ Conjunto de tecnologias e ferramentas
+
+<!-- Ícones de Tecnologia Corrigidos -->
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Java" height="40" />
-  <img src="https://githubusercontent.com" alt="JavaScript" height="40" />
-  <img src="https://githubusercontent.com" alt="SQL" height="40" />
-  <img src="https://githubusercontent.com" alt="NodeJS" height="40" />
-  <img src="https://githubusercontent.com" alt="HTML" height="40" />
-  <img src="https://githubusercontent.com" alt="CSS" height="40" />
+  <img src="image_IM-Qk_.png" alt="Java" height="38" />
+  <img src="image_mjSCeh.png" alt="JavaScript" height="38" />
+  <img src="image_q7PtvY.png" alt="SQL" height="38" />
+  <img src="image_d8Fq_Y.png" alt="NodeJS" height="38" />
+  <img src="image_ppFBr2.png" alt="HTML" height="38" />
+  <img src="image_c9hCU7.png" alt="CSS" height="38" />
 </p>
 
 ---
@@ -87,17 +87,17 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 ---
 
-### 🔮 Github Activity & Analytics
+### 🔮 Atividade e análises do GitHub
 
-<!-- Gráfico Animado 3D de Contribuições (GitHub Skyline/isometric-cal) -->
+<!-- Painel de Streak de Commits Animado -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Github Activity Graph Profile" />
+  <img src="https://herokuapp.com" width="100%" alt="GitHub Streak Stats" />
 </p>
 
 <!-- Resumo do Perfil -->
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=github_dark" 
+    src="https://vercel.app" 
     width="100%" 
     alt="Detalhes do perfil GitHub" 
   />
@@ -106,12 +106,12 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 <!-- Linguagens e Repositórios -->
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=github_dark" 
+    src="https://vercel.app" 
     width="49%" 
     alt="Repositórios por Linguagem" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=github_dark" 
+    src="https://vercel.app" 
     width="49%" 
     alt="Commits por Linguagem" 
   />
@@ -120,12 +120,12 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 <!-- Métricas e Horários -->
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santhxyy&theme=github_dark" 
+    src="https://vercel.app" 
     width="49%" 
     alt="Estatísticas do GitHub" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=github_dark&utcOffset=-3" 
+    src="https://vercel.app" 
     width="49%" 
     alt="Horário Produtivo" 
   />
