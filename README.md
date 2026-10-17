@@ -90,9 +90,9 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d" width="49%" alt="Top Languages" />
 </p>
 
-<!-- Streak e Extras -->
+<!-- Cartão de Atividade / Extra Estável -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=santhxyy&theme=dark&background=0d1117&border=30363d&stroke=8b949e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=8b949e&sideTitle=ffffff&title=ffffff" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=santhxyy&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d" width="100%" alt="WakaTime ou Estatísticas Extras" />
 </p>
 
 ---
