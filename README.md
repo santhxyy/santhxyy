@@ -92,6 +92,20 @@ Bridging the gap between raw intelligence and ironclad security.
 
 <p align="center">
   <img
+    src="https://raw.githubusercontent.com/lll2yu/sddm-lain-wired-theme/master/VisLain.gif"
+    width="220"
+    alt="Lain Iwakura - Serial Experiments Lain"
+  />
+</p>
+
+<p align="center">
+  <i>“Present day, present time.”</i>
+</p>
+
+
+
+<p align="center">
+  <img
     src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"
     width="48%"
     alt="GitHub Statistics"
@@ -100,6 +114,16 @@ Bridging the gap between raw intelligence and ironclad security.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"
     width="48%"
     alt="Most Used Languages"
+  />
+</p>
+
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=santhxyy&bg_color=0D1117&color=FFFFFF&line=AAAAAA&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
   />
 </p>
 
