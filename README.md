@@ -4,6 +4,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:202020,100:555555&height=190&section=header&text=Jamilly%20Santos&fontSize=44&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=DATA%20ENGINEERING%20%7C%20CYBERSECURITY%20%7C%20COMPUTER%20SCIENCE&descSize=12&descAlignY=58&descColor=DDDDDD" width="100%" alt="Jamilly Santos"/>
 </p>
 
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/lll2yu/sddm-lain-wired-theme/master/VisLain.gif"
+    width="220"
+    alt="Lain Iwakura - Serial Experiments Lain"
+  />
+</p>
+
+<p align="center">
+  <i>“Present day, present time.”</i>
+</p>
+
+
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+secure+and+scalable+systems;Transforming+raw+data+into+insights;Exploring+Java+and+Cybersecurity;Engineering+the+future+one+commit+at+a+time" alt="Animated introduction"/>
 </p>
@@ -90,18 +105,6 @@ Bridging the gap between raw intelligence and ironclad security.
 </table>
 
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/lll2yu/sddm-lain-wired-theme/master/VisLain.gif"
-    width="220"
-    alt="Lain Iwakura - Serial Experiments Lain"
-  />
-</p>
-
-<p align="center">
-  <i>“Present day, present time.”</i>
-</p>
-
 
 
 <p align="center">
@@ -117,15 +120,6 @@ Bridging the gap between raw intelligence and ironclad security.
   />
 </p>
 
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=santhxyy&bg_color=0D1117&color=FFFFFF&line=AAAAAA&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,50:202020,100:000000&height=110&section=footer" width="100%" alt="Dark animated footer"/>
