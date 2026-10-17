@@ -24,13 +24,7 @@
 <tr>
 <td width="68%" valign="middle">
 
-<pre>
-Initializing profile...
-Identity: Developer & Researcher
-Interests: Data Engineering | Cybersecurity
-Mission: Build. Secure. Optimize.
-Status: Always learning.
-</pre>
+
 
 <h3>Welcome to my digital sanctuary.</h3>
 
