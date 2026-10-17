@@ -6,12 +6,13 @@
   <code>Data Engineering</code> • <code>Computer Science</code> • <code>Cybersecurity</code>
 </p>
 
+<!-- Redes Sociais Minimalistas -->
 <p align="center">
   <a href="https://www.linkedin.com/in/jamilly-santos-997208354/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://githubusercontent.com" alt="LinkedIn" height="35"/>
   </a>
   <a href="mailto:jamiilly.gabriiellly@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://githubusercontent.com" alt="Email" height="35"/>
   </a>
 </p>
 
@@ -35,13 +36,14 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 ### ✦ Tech Stack & Tools
 
+<!-- Ícones de Tecnologia Personalizados e Alinhados -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://githubusercontent.com" alt="Java" height="40" />
+  <img src="https://githubusercontent.com" alt="JavaScript" height="40" />
+  <img src="https://githubusercontent.com" alt="SQL" height="40" />
+  <img src="https://githubusercontent.com" alt="NodeJS" height="40" />
+  <img src="https://githubusercontent.com" alt="HTML" height="40" />
+  <img src="https://githubusercontent.com" alt="CSS" height="40" />
 </p>
 
 ---
@@ -85,6 +87,14 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 ---
 
+### 🔮 Github Activity & Analytics
+
+<!-- Gráfico Animado 3D de Contribuições (GitHub Skyline/isometric-cal) -->
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Github Activity Graph Profile" />
+</p>
+
+<!-- Resumo do Perfil -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=github_dark" 
@@ -93,6 +103,7 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
   />
 </p>
 
+<!-- Linguagens e Repositórios -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=github_dark" 
@@ -106,6 +117,7 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
   />
 </p>
 
+<!-- Métricas e Horários -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santhxyy&theme=github_dark" 
@@ -119,13 +131,9 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
   />
 </p>
 
-<p align="center">
- 
-
-  
-
+---
 
 <p align="center">
   <i>“In the silence of code, logic creates order.”</i><br/><br/>
-  <sub>© 2024 Jamilly Santos • Designed with elegance and precision.</sub>
+  <sub>© 2026 Jamilly Santos • Designed with elegance and precision.</sub>
 </p>
