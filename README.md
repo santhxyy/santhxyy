@@ -84,7 +84,6 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 </div>
 
 ---
----
 
 ### 📊 GitHub Activity & Statistics
 
@@ -93,38 +92,19 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=transparent" 
-    width="100%" 
-    alt="Detalhes do perfil GitHub" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=transparent" width="100%" alt="Detalhes do perfil GitHub" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=transparent" 
-    width="49%" 
-    alt="Repositórios por Linguagem" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=transparent" 
-    width="49%" 
-    alt="Commits por Linguagem" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=transparent" width="49%" alt="Repositórios por Linguagem" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=transparent" width="49%" alt="Commits por Linguagem" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=omni&hide_border=false&include_all_commits=true&count_private=true" 
-    width="49%" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=black-white&hide_border=false" 
-    width="49%" 
-    alt="GitHub Streak" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=omni&hide_border=false&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=black-white&hide_border=false" width="49%" alt="GitHub Streak" />
 </p>
+
 
 ---
 
