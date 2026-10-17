@@ -85,26 +85,29 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 ---
 
-
-
 ### 📊 GitHub Activity & Statistics
 
+<!-- Gráfico de Atividade Principal em Preto e Branco -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_icons=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhxyy&theme=react-dark&hide_border=true&area=true&color=ffffff&line=ffffff&point=ffffff&background=000000" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+<!-- Cartão de Detalhes do Perfil e Resumo -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=vision-friendly-dark" width="100%" alt="Detalhes do perfil GitHub" />
+</p>
+
+<!-- Gráficos de Linguagens mais usadas -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=vision-friendly-dark" width="49%" alt="Repositórios por Linguagem" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=vision-friendly-dark" width="49%" alt="Commits por Linguagem" />
+</p>
+
+<!-- Estatísticas Gerais e Streak em Preto e Branco -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideTitle=ffffff&title=ffffff" width="49%" alt="GitHub Streak" />
 </p>
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=transparent" width="100%" alt="Detalhes do perfil GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=transparent" width="49%" alt="Repositórios por Linguagem" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=transparent" width="49%" alt="Commits por Linguagem" />
-</p>
-
 
 
 
