@@ -90,8 +90,6 @@ Bridging the gap between raw intelligence and ironclad security.
 </table>
 
 
-<h2 align="center">05 // GitHub Statistics</h2>
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"
@@ -103,12 +101,6 @@ Bridging the gap between raw intelligence and ironclad security.
     width="48%"
     alt="Most Used Languages"
   />
-</p>
-
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/santhxyy/santhxyy/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 </p>
 
 <p align="center">
