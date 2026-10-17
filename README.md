@@ -13,9 +13,6 @@
   />
 </p>
 
-<p align="center">
-  <i>“Present day, present time.”</i>
-</p>
 
 
 
