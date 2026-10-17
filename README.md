@@ -32,24 +32,47 @@
 </p>
 
 
-> Initializing profile...
-> Identity: Developer & Researcher
-> Interests: Data Engineering | Cybersecurity
-> Mission: Build. Secure. Optimize.
-> Status: Always learning.
+<table width="100%" border="0">
+<tr>
+<td width="68%" valign="middle">
 
+<pre>
+Initializing profile...
+Identity: Developer & Researcher
+Interests: Data Engineering | Cybersecurity
+Mission: Build. Secure. Optimize.
+Status: Always learning.
+</pre>
 
-Welcome to my digital sanctuary.
+<h3>Welcome to my digital sanctuary.</h3>
 
 I am a developer and researcher passionate about systems architecture, data engineering, and cybersecurity. I enjoy exploring complex technologies, designing reliable infrastructures, and transforming information into meaningful solutions.
 
-Bridging the gap between raw intelligence and ironclad security.
+<i>Bridging the gap between raw intelligence and ironclad security.</i>
+
+<br/>
 
 📚 Currently studying: Advanced Database Management & Optimization
+
 ☕ Java: Object-oriented programming and application architecture
+
 🛡️ Cybersecurity: Ethical hacking, vulnerability analysis, and network defense
+
 📊 Data Engineering: Data pipelines, processing, and scalable architectures
+
 🎯 Goal: Building secure, efficient, and scalable technological solutions
+
+</td>
+
+<td width="32%" align="right" valign="middle">
+
+<img src="https://raw.githubusercontent.com/lll2yu/sddm-lain-wired-theme/master/VisLain.gif" width="240" alt="Lain Iwakura - Serial Experiments Lain"/>
+
+</td>
+</tr>
+</table>
+```
+
 
 
 <p align="center">
