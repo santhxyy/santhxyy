@@ -88,8 +88,9 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-profile-3d-cards.vercel.app/result?username=santhxyy&theme=dark" width="100%" alt="GitHub 3D Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhxyy&theme=react-dark&hide_border=true&area=true&color=ffffff&line=ffffff&point=ffffff" width="100%" alt="GitHub Activity Graph" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=transparent" width="100%" alt="Detalhes do perfil GitHub" />
