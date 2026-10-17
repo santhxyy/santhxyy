@@ -1,52 +1,52 @@
 <h1 align="center">─── ⋆⋅✦ Jamilly Santos ✦⋅⋆ ───</h1>
 
 <p align="center">
-  <i>“Transformando dados brutos em insights e arquitetura em fortalezas.”</i><br/>
+  <i>“Transforming raw data into insights and architecture into fortresses.”</i><br/>
   ─── ❖ ───<br/>
   <code>Data Engineering</code> • <code>Computer Science</code> • <code>Cybersecurity</code>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/jamilly-santos-997208354/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jamiilly.gabriiellly@gmail.com">
-    <img src="https://shields.io" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### ✦ Sobre mim
+### ✦ About Me
 
-Bem-vindo ao meu santuário digital. Sou um desenvolvedor e pesquisador dedicado a explorar as profundezas de sistemas, segurança e arquitetura de dados. Apaixonado por projetar estruturas resilientes, otimizar fluxos de trabalho complexos e criar soluções tecnológicas elegantes.
+Welcome to my digital sanctuary. I am a developer and researcher dedicated to exploring the depths of systems, security, and data architecture. Passionate about designing resilient structures, optimizing complex workflows, and crafting elegant technological solutions.
 
-> *Unindo inteligência bruta e segurança inabalável.*
-
----
-
-### ✧ Empreendimentos atuais
-
-* 📚 **Atualmente estudando:** Gerenciamento e Otimização Avançados de Banco de Dados
-* 🛡️ **Áreas de atuação:** Arquitetura Java avançada e cibersegurança ofensiva
-* 🎯 **Objetivos:** Construir dutos escaláveis e infraestruturas de alta segurança
+> *Bridging the gap between raw intelligence and ironclad security.*
 
 ---
 
-### ✦ Conjunto de tecnologias e ferramentas
+### ✧ Current Endeavors
+
+* 📚 **Currently Studying:** Advanced **Database Management & Optimization**
+* 🛡️ **Focus Areas:** Advanced Java Architecture & Offensive Cybersecurity
+* 🎯 **Goals:** Building scalable pipelines and high-security infrastructures
+
+---
+
+### ✦ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="HTML" />
-  <img src="https://shields.io" alt="CSS" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
 ---
 
-### ✧ Áreas de especialização
+### ✧ Fields of Expertise
 
 <div align="center">
 
@@ -85,17 +85,54 @@ Bem-vindo ao meu santuário digital. Sou um desenvolvedor e pesquisador dedicado
 
 ---
 
-### 🔮 Atividades e análises do GitHub
+### 📊 GitHub Activity & Statistics
 
-<!-- Estatísticas Gerais e Sequência de Commits (Super Estáveis) -->
 <p align="center">
-  <img src="https://vercel.app" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://herokuapp.com" height="180" alt="Sequência de Commits" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=github_dark" 
+    width="100%" 
+    alt="Detalhes do perfil GitHub" 
+  />
 </p>
 
-<!-- Linguagens mais utilizadas -->
 <p align="center">
-  <img src="https://vercel.app" height="180" alt="Linguagens mais usadas" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=github_dark" 
+    width="49%" 
+    alt="Repositórios por Linguagem" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=github_dark" 
+    width="49%" 
+    alt="Commits por Linguagem" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santhxyy&theme=github_dark" 
+    width="49%" 
+    alt="Estatísticas do GitHub" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=github_dark&utcOffset=-3" 
+    width="49%" 
+    alt="Horário Produtivo" 
+  />
+</p>
+
+<!-- Novos cards baseados no seu print para maior destaque estatístico -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" 
+    width="49%" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=vue-dark" 
+    width="49%" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 ---
