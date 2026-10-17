@@ -85,14 +85,11 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 ### 📊 GitHub Activity & Statistics
 
 <!-- Estatísticas Principais e Linguagens Mais Usadas -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d" width="49%" alt="Top Languages" />
-</p>
 
 <!-- Cartão de Atividade / Extra Estável -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=santhxyy&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d" width="100%" alt="WakaTime ou Estatísticas Extras" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d" width="49%" alt="Top Languages" />
 </p>
 
 ---
