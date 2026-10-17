@@ -17,7 +17,6 @@
 <a href="https://www.linkedin.com/in/jamilly-santos-997208354/">
 <img src="https://img.shields.io/badge/LinkedIn-CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=111111" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=santhxyy&style=for-the-badge&color=555555&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 
