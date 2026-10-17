@@ -89,7 +89,7 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 <!-- Gráfico 3D do GitHub -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/santhxyy/santhxyy/main/profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D do GitHub" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=github_dark" width="100%" alt="Gráfico de Produtividade" />
 </p>
 
 <!-- Cartão de Detalhes do Perfil (Preto e Cinza) -->
