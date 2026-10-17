@@ -85,30 +85,48 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 ---
 
-### 📊 GitHub Activity & Statistics
+
 
 <!-- Gráfico de Atividade Principal em Preto e Branco -->
+
+### 📊 GitHub Activity & Statistics
+
+<!-- Cartão de Detalhes do Perfil (Preto e Cinza) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhxyy&theme=react-dark&hide_border=true&area=true&color=ffffff&line=ffffff&point=ffffff&background=000000" width="100%" alt="GitHub Activity Graph" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=github_dark" 
+    width="100%" 
+    alt="Detalhes do perfil GitHub" 
+  />
 </p>
 
-<!-- Cartão de Detalhes do Perfil e Resumo -->
+<!-- Linguagens por Repositório e Commits (Preto e Cinza) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=vision-friendly-dark" width="100%" alt="Detalhes do perfil GitHub" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=github_dark" 
+    width="49%" 
+    alt="Repositórios por Linguagem" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=github_dark" 
+    width="49%" 
+    alt="Commits por Linguagem" 
+  />
 </p>
 
-<!-- Gráficos de Linguagens mais usadas -->
+<!-- Estatísticas Gerais e Streak (Fundo Preto e Cinza) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhxyy&theme=vision-friendly-dark" width="49%" alt="Repositórios por Linguagem" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=vision-friendly-dark" width="49%" alt="Commits por Linguagem" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true" 
+    width="49%" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&background=0d1117&border=30363d&stroke=8b949e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=8b949e&sideTitle=ffffff&title=ffffff" 
+    width="49%" 
+    alt="GitHub Streak" 
+  />
 </p>
-
-<!-- Estatísticas Gerais e Streak em Preto e Branco -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideTitle=ffffff&title=ffffff" width="49%" alt="GitHub Streak" />
-</p>
-
 
 
 ---
