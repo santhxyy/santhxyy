@@ -87,24 +87,15 @@ Bem-vindo ao meu santuário digital. Sou um desenvolvedor e pesquisador dedicado
 
 ### 🔮 Atividades e análises do GitHub
 
-<!-- Gráfico de Linha de Contribuições (Estável) -->
+<!-- Estatísticas Gerais e Sequência de Commits (Super Estáveis) -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Atividade do GitHub" />
+  <img src="https://vercel.app" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://herokuapp.com" height="180" alt="Sequência de Commits" />
 </p>
 
-<!-- Cards de Resumo do Perfil -->
+<!-- Linguagens mais utilizadas -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Detalhes do perfil GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" width="49%" alt="Repositórios por Linguagem" />
-  <img src="https://vercel.app" width="49%" alt="Commits por Linguagem" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" width="49%" alt="Estatísticas do GitHub" />
-  <img src="https://vercel.app" width="49%" alt="Horário Produtivo" />
+  <img src="https://vercel.app" height="180" alt="Linguagens mais usadas" />
 </p>
 
 ---
