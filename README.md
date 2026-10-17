@@ -6,13 +6,12 @@
   <code>Data Engineering</code> • <code>Computer Science</code> • <code>Cybersecurity</code>
 </p>
 
-<!-- Redes Sociais Corrigidas -->
 <p align="center">
   <a href="https://linkedin.com">
-    <img src="image_gz3yVB.png" alt="LinkedIn" height="30"/>
+    <img src="https://shields.io" alt="LinkedIn"/>
   </a>
   <a href="mailto:jamiilly.gabriiellly@gmail.com">
-    <img src="image_gjZXj2.png" alt="Email" height="30"/>
+    <img src="https://shields.io" alt="Email"/>
   </a>
 </p>
 
@@ -36,19 +35,18 @@ Bem-vindo ao meu santuário digital. Sou um desenvolvedor e pesquisador dedicado
 
 ### ✦ Conjunto de tecnologias e ferramentas
 
-<!-- Ícones de Tecnologia Corrigidos -->
 <p align="center">
-  <img src="image_IM-Qk_.png" alt="Java" height="38" />
-  <img src="image_mjSCeh.png" alt="JavaScript" height="38" />
-  <img src="image_q7PtvY.png" alt="SQL" height="38" />
-  <img src="image_d8Fq_Y.png" alt="NodeJS" height="38" />
-  <img src="image_ppFBr2.png" alt="HTML" height="38" />
-  <img src="image_c9hCU7.png" alt="CSS" height="38" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="SQL" />
+  <img src="https://shields.io" alt="NodeJS" />
+  <img src="https://shields.io" alt="HTML" />
+  <img src="https://shields.io" alt="CSS" />
 </p>
 
 ---
 
-### ✧ Fields of Expertise
+### ✧ Áreas de especialização
 
 <div align="center">
 
@@ -87,48 +85,26 @@ Bem-vindo ao meu santuário digital. Sou um desenvolvedor e pesquisador dedicado
 
 ---
 
-### 🔮 Atividade e análises do GitHub
+### 🔮 Atividades e análises do GitHub
 
-<!-- Painel de Streak de Commits Animado -->
+<!-- Gráfico de Linha de Contribuições (Estável) -->
 <p align="center">
-  <img src="https://herokuapp.com" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://vercel.app" width="100%" alt="Atividade do GitHub" />
 </p>
 
-<!-- Resumo do Perfil -->
+<!-- Cards de Resumo do Perfil -->
 <p align="center">
-  <img 
-    src="https://vercel.app" 
-    width="100%" 
-    alt="Detalhes do perfil GitHub" 
-  />
+  <img src="https://vercel.app" width="100%" alt="Detalhes do perfil GitHub" />
 </p>
 
-<!-- Linguagens e Repositórios -->
 <p align="center">
-  <img 
-    src="https://vercel.app" 
-    width="49%" 
-    alt="Repositórios por Linguagem" 
-  />
-  <img 
-    src="https://vercel.app" 
-    width="49%" 
-    alt="Commits por Linguagem" 
-  />
+  <img src="https://vercel.app" width="49%" alt="Repositórios por Linguagem" />
+  <img src="https://vercel.app" width="49%" alt="Commits por Linguagem" />
 </p>
 
-<!-- Métricas e Horários -->
 <p align="center">
-  <img 
-    src="https://vercel.app" 
-    width="49%" 
-    alt="Estatísticas do GitHub" 
-  />
-  <img 
-    src="https://vercel.app" 
-    width="49%" 
-    alt="Horário Produtivo" 
-  />
+  <img src="https://vercel.app" width="49%" alt="Estatísticas do GitHub" />
+  <img src="https://vercel.app" width="49%" alt="Horário Produtivo" />
 </p>
 
 ---
