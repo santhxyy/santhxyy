@@ -93,6 +93,9 @@ Welcome to my digital sanctuary. I am a developer and researcher dedicated to ex
 
 <!-- Cartão de Detalhes do Perfil (Preto e Cinza) -->
 <p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Gráfico 3D Animado" width="100%" />
+</p>
+<p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=github_dark" 
     width="100%" 
