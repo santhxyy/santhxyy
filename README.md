@@ -90,21 +90,19 @@ Bridging the gap between raw intelligence and ironclad security.
 </table>
 
 
+<h2 align="center">05 // GitHub Statistics</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=AAAAAA" height="180" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" height="180" alt="Most used languages"/>
-</p>
-
-
-
-
-<p align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph"/>
-</p>
-
-<p align="center">
-<i>Every contribution is a step toward mastery.</i>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"
+    width="48%"
+    alt="Most Used Languages"
+  />
 </p>
 
 
