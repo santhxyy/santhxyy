@@ -102,7 +102,7 @@ I am a developer and researcher passionate about systems architecture, data engi
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=dark" width="48%" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santhxyy&theme=dark" width="48%" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santhxyy&theme=dark" width="50%" alt="GitHub Stats Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=dark" width="48%" alt="Profile Details" />
 </p>
 
