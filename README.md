@@ -103,7 +103,7 @@ I am a developer and researcher passionate about systems architecture, data engi
 <p align="center">
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhxyy&theme=github-dark&hide_border=true" width="98%" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=santhxyy&theme=darkhub&column=6&margin-w=15&margin-h=15" width="98%" alt="GitHub Trophies" />
 </p>
 
 
