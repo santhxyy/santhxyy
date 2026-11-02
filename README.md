@@ -101,9 +101,10 @@ I am a developer and researcher passionate about systems architecture, data engi
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&theme=dark&layout=compact&hide_border=true" width="48%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&theme=midnight-purple&show_icons=true&hide_border=true" width="48%" alt="GitHub Statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,50:202020,100:000000&height=110&section=footer" width="100%" alt="Dark animated footer"/>
