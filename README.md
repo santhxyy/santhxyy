@@ -19,12 +19,9 @@
 </a>
 </p>
 
-
 <table width="100%" border="0">
 <tr>
 <td width="68%" valign="middle">
-
-
 
 <h3>Welcome to my digital sanctuary.</h3>
 
@@ -53,9 +50,6 @@ I am a developer and researcher passionate about systems architecture, data engi
 </td>
 </tr>
 </table>
-
-
-
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,postgres,mysql,git,github,vscode&theme=dark&perline=5" alt="Technology stack"/>
@@ -106,22 +100,10 @@ I am a developer and researcher passionate about systems architecture, data engi
 </tr>
 </table>
 
-
-
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF"
-    width="48%"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"
-    width="48%"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" width="48%" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhxyy&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" width="48%" alt="Most Used Languages" />
 </p>
-
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,50:202020,100:000000&height=110&section=footer" width="100%" alt="Dark animated footer"/>
