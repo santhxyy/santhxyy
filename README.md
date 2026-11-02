@@ -106,6 +106,12 @@ I am a developer and researcher passionate about systems architecture, data engi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=2077" width="48%" alt="GitHub Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=dark" width="48%" alt="Most Committed Language" />
   <img src="https://activity-graph.herokuapp.com/graph?username=santhxyy&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
+  <a href="https://github.com/santhxyy">
+    <img src="https://img.shields.io/badge/System-Active-111111?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000" alt="System Active"/>
+    <img src="https://img.shields.io/badge/Main_Language-Java_%2F_JS-202020?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=000000" alt="Main Language"/>
+    <img src="https://img.shields.io/badge/Security-Cybersecurity-333333?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF&labelColor=000000" alt="Cybersecurity"/>
+  </a>
+</p>
 </p>
 
 
