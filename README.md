@@ -103,7 +103,7 @@ I am a developer and researcher passionate about systems architecture, data engi
 <p align="center">
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://raw.githubusercontent.com/santhxyy/santhxyy/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=2077" width="48%" alt="GitHub Profile Details" />
 </p>
 
 
