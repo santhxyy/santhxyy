@@ -101,7 +101,7 @@ I am a developer and researcher passionate about systems architecture, data engi
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhxyy&theme=midnight-purple&show_icons=true&hide_border=true" width="48%" alt="GitHub Statistics" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
