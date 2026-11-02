@@ -104,8 +104,8 @@ I am a developer and researcher passionate about systems architecture, data engi
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=2077" width="48%" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day-for-user?username=santhxyy&theme=dark" width="48%" alt="Commits Per Day" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=dark" width="48%" alt="Most Committed Language" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=santhxyy&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 
