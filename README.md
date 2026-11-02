@@ -101,12 +101,13 @@ I am a developer and researcher passionate about systems architecture, data engi
 </table>
 
 <p align="center">
- 
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=dark" width="48%" alt="Productive Time" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day-for-user?username=santhxyy&theme=dark" width="48%" alt="Commits Per Day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=dark" width="48%" alt="Productive Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day-for-user?username=santhxyy&theme=dark" width="98%" alt="Commits Per Day" />
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,50:202020,100:000000&height=110&section=footer" width="100%" alt="Dark animated footer"/>
