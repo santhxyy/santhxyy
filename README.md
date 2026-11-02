@@ -102,12 +102,13 @@ I am a developer and researcher passionate about systems architecture, data engi
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=dark" width="48%" alt="Productive Time" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=dark" width="48%" alt="Profile Details" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=dark" width="98%" alt="Most Committed Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhxyy&theme=dark" width="48%" alt="Profile Details" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+  
 </p>
 
 <p align="center">
