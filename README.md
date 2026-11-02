@@ -103,7 +103,7 @@ I am a developer and researcher passionate about systems architecture, data engi
 <p align="center">
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhxyy&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://metrics.lecoq.io/santhxyy?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=1&base.metadata=0&config.timezone=America%2FSao_Paulo" width="98%" alt="Metrics" />
 </p>
 
 
