@@ -107,6 +107,7 @@ I am a developer and researcher passionate about systems architecture, data engi
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day-for-user?username=santhxyy&theme=dark" width="98%" alt="Commits Per Day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhxyy&theme=dark" width="98%" alt="Most Committed Language" />
 </p>
 
 <p align="center">
