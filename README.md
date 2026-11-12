@@ -62,6 +62,7 @@ I am a developer and researcher passionate about systems architecture, data engi
 </p>
 
 
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -102,9 +103,9 @@ I am a developer and researcher passionate about systems architecture, data engi
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center" valign="top">
 <h3>🖥️ Windows System Specialist</h3>
-<ul>
+<ul align="left">
 <li>Windows 11 & Windows 10 configuration</li>
 <li>Advanced system settings and customization</li>
 <li>System optimization and management</li>
@@ -113,6 +114,7 @@ I am a developer and researcher passionate about systems architecture, data engi
 </td>
 </tr>
 </table>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhxyy&theme=dark" width="48%" alt="Productive Time" />
