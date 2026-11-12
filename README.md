@@ -63,6 +63,7 @@ I am a developer and researcher passionate about systems architecture, data engi
 
 
 
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -98,22 +99,32 @@ I am a developer and researcher passionate about systems architecture, data engi
 <li>Application architecture</li>
 <li>Clean and maintainable code</li>
 <li>Software Development Student</li>
-<li>Front-end Development</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="top">
+<td width="50%" valign="top">
 <h3>🖥️ Windows System Specialist</h3>
-<ul align="left">
+<ul>
 <li>Windows 11 & Windows 10 configuration</li>
 <li>Advanced system settings and customization</li>
 <li>System optimization and management</li>
 <li>Windows troubleshooting and administration</li>
 </ul>
 </td>
+<td width="50%" valign="top">
+<h3>🌐 Front-end Development</h3>
+<ul>
+<li>Currently studying Front-end Development</li>
+<li>HTML5 & CSS3</li>
+<li>JavaScript</li>
+<li>Responsive Web Design</li>
+<li>User Interface Development</li>
+</ul>
+</td>
 </tr>
 </table>
+
 
 
 <p align="center">
