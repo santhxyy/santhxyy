@@ -61,6 +61,7 @@ I am a developer and researcher passionate about systems architecture, data engi
 <img src="https://img.shields.io/badge/CYBERSECURITY-111111?style=flat-square&logo=kalilinux&logoColor=FFFFFF" alt="Cybersecurity"/>
 </p>
 
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -95,6 +96,19 @@ I am a developer and researcher passionate about systems architecture, data engi
 <li>Java & object-oriented programming</li>
 <li>Application architecture</li>
 <li>Clean and maintainable code</li>
+<li>Software Development Student</li>
+<li>Front-end Development</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🖥️ Windows System Specialist</h3>
+<ul>
+<li>Windows 11 & Windows 10 configuration</li>
+<li>Advanced system settings and customization</li>
+<li>System optimization and management</li>
+<li>Windows troubleshooting and administration</li>
 </ul>
 </td>
 </tr>
